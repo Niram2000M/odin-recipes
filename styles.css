@@ -1,0 +1,14 @@
+/* styles.css */
+
+.Title1 {
+    color: red;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.Head1 {color:royalblue;
+background-color: rgb(red, green, blue);
+font-size: medium;
+font-family: 'Times New Roman', Times, serif;
+}
